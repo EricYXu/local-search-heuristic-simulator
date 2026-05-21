@@ -1,6 +1,6 @@
 # Local Search Heuristics Simulator for Approximating Number Partition
 
-In this project, I investigate Karmarkar's algorithm and other local search heuristic algorithms to obtain approximate solutions across multiple instances of the NP-hard Number Partition problem. I prove correctness and runtime bounds for a dynamic programming algorithm and Karmarkar's algorithm, measure the residue of approximate solutions across different heuristics, and analyze the difference in runtimes. 
+In this project, I investigate Karmarkar's algorithm and other local search heuristic algorithms to obtain approximate solutions across multiple instances of the NP-hard Number Partition problem. I prove correctness and runtime bounds for a dynamic programming algorithm and Karmarkar's algorithm, measure the residue of approximate solutions across different heuristics, and analyze the difference in runtime. 
 
 ---
 
