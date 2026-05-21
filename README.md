@@ -41,3 +41,7 @@ Example: Run Karmarkar's algorithm on the inputfile `example_problem_instance.tx
 
 python partition.py 0 0 example_problem_instance.txt
 Expected output: 813
+
+---
+
+Developed as project for Harvard CS1240: Data Structures and Algorithms (Spring 2026).
