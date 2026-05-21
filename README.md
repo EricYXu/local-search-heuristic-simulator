@@ -38,8 +38,9 @@ inputfile: path to file containing input instances
 The inputfile should be a list of integers, one per line. The output is the residue obtained by running the specified algorithm with these numbers as input.
 
 Example: Run Karmarkar's algorithm on the inputfile `example_problem_instance.txt`:
-
+```python
 python partition.py 0 0 example_problem_instance.txt
+```
 Expected output: 813
 
 ---
